@@ -5,6 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/kreattisak/kreattisak.github.io)](https://github.com/kreattisak/kreattisak.github.io/blob/main/LICENSE)
 [![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-000000?logo=next.js)](https://nextjs.org/)
 [![Styled with Tailwind CSS](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-02569B?logo=flutter)](https://flutter.dev/)
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Kreattisak's+Portfolio" alt="Portfolio Preview" width="600" />
@@ -30,6 +31,7 @@ Welcome to my online portfolio where I showcase my projects, skills, and profess
 - **[Tailwind CSS](https://tailwindcss.com/)** - Framework CSS ที่ช่วยให้ออกแบบได้รวดเร็ว
 - **[GSAP](https://greensock.com/gsap/)** - Library สำหรับสร้าง animations ที่หลากหลาย
 - **[Framer Motion](https://www.framer.com/motion/)** - Library สำหรับ React animations
+- **[Flutter](https://flutter.dev/)** - Framework สำหรับพัฒนาแอพพลิเคชันข้ามแพลตฟอร์ม
 - **[GitHub Pages](https://pages.github.com/)** - บริการฟรีสำหรับโฮสต์เว็บไซต์โดย GitHub
 
 ## 🚀 Quick Start
@@ -74,15 +76,15 @@ kreattisak.github.io/
 
 ## 🔍 About Me
 
-ฉันเป็นนักพัฒนาเว็บไซต์และออกแบบ UI/UX ที่หลงใหลในการสร้างประสบการณ์ดิจิทัลที่สวยงามและใช้งานง่าย มีความเชี่ยวชาญในการพัฒนา front-end ด้วย React และ Next.js พร้อมทักษะในการออกแบบ responsive และ interactive interfaces
+ฉันเป็นนักพัฒนาซอฟต์แวร์ที่มีความเชี่ยวชาญทั้งในการพัฒนาเว็บไซต์และแอพพลิเคชัน หลงใหลในการสร้างประสบการณ์ดิจิทัลที่สวยงามและใช้งานง่าย มีความเชี่ยวชาญในการพัฒนา front-end ด้วย React และ Next.js รวมถึงการพัฒนาแอพพลิเคชันข้ามแพลตฟอร์มด้วย Flutter พร้อมทักษะในการออกแบบ responsive และ interactive interfaces
 
-I'm passionate about creating beautiful, functional digital experiences that solve real problems. With expertise in front-end development and UI/UX design, I strive to build websites and applications that not only look great but also provide exceptional user experiences.
+I'm a versatile software developer specialized in both web and mobile application development. I'm passionate about creating beautiful, functional digital experiences that solve real problems. With expertise in front-end development with React and Next.js, cross-platform mobile development with Flutter, and UI/UX design, I strive to build websites and applications that not only look great but also provide exceptional user experiences across all devices.
 
 ## 📞 Contact
 
 สนใจร่วมงานหรือมีคำถาม? ติดต่อฉันได้ที่:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [kreattisak.ks@gmail.com](mailto:kreattisak.ks@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kreattisak](https://linkedin.com/in/kreattisak)
 - **GitHub:** [github.com/kreattisak](https://github.com/kreattisak)
 - **Twitter:** [@kreattisak](https://twitter.com/kreattisak)
